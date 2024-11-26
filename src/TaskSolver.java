@@ -23,6 +23,6 @@ public class TaskSolver {
         manager.addTask(new FactorialSumTask());
         manager.addTask(new BracketExpressionTask());
         System.out.println("Executing additional tasks...");
-        manager.executeTasks(); // Execute additional tasks
+        manager.executeTasks(); // Execute tasks
     }
 }
